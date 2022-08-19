@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(247, 245, 245);
+}
+
+table{
+
+    background-color: white;
+    margin: auto;
+    border: 1px lightgrey;
+    
+}
+
+td{
+    text-align: center;
+}
+
+#uname{
+    margin-left: auto;
+    height: 30px;
+    width: 280px;
+}
+
+#btn{
+    margin-left: auto;
+    margin-top: 8px;
+    margin-bottom: 15px;
+    border-style: none;
+    color: white;
+    background: rgb(56, 114, 230);
+    height: 30px;
+    width: 289px;
+}
+
+#logo{
+    height: 18px;
+    width: 18px;
+}
+
+#fb{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+p{
+    text-align: center;
+}
+
+.images{
+    text-align: center;
+}
+
+li {
+    font-size: small;
+    text-align: center;
+    display: inline;
+}
